@@ -1,3 +1,8 @@
-We have rebranded to Syphra!
+-- Updates --
+whats new?
 
-fuck GRploits 4ever!
+- New API
+-- 100% UNC
+-- 100% sUNC
+- New UI also! (made by @gigzaz)
+- Executor is now Obfuscated! (ggs to skids)
