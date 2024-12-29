@@ -1,9 +1,8 @@
 -- Updates --
-whats new?
+Whats new?
+- Updated ArcadiaAPI to 1.9.5
 
-- New API
--- 100% UNC
--- 100% sUNC
-- New UI also! (made by @gigzaz)
-- Executor is now Obfuscated! (ggs to skids)
-- credits to zadam42 for making the API
+Whats fixed?
+- Injection (home menu & in-game now)
+- Execution errors
+- Bugs with UI
