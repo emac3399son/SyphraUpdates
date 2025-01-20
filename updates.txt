@@ -1,8 +1,11 @@
--- Updates --
-Whats new?
-- Updated ArcadiaAPI to 1.9.5
+-- Release 1.1.0 --
 
-Whats fixed?
-- Injection (home menu & in-game now)
-- Execution errors
-- Bugs with UI
+- Whats new? -
+
+- API Updated to v3
+- Monaco fixed for sm ppl
+- Added Tabs
+- fixed Update button to update syphra automatically
+
+- Join our discord server if u havent already! 
+- https://discord.gg/ApFZFGuYxh
