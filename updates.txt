@@ -2,10 +2,10 @@
 
 - Whats new? -
 
-- API Updated to v3
+- API Updated to v1.3 
 - Monaco fixed for sm ppl
 - Added Tabs
-- fixed Update button to update syphra automatically
+- COMPLETELY NEW UI (soon themes)
 
 - Join our discord server if u havent already! 
 - https://discord.gg/ApFZFGuYxh
