@@ -1,11 +1,13 @@
--- Release 1.1.0 --
+Let's cut to the chase: 
+we will no longer continue offering Syphra Softworks LLC. We have shut down the software's services as of this announcement, and all user data has been deleted.
 
-- Whats new? -
+As important Syphra was for the growth and credence of our company, it became clear that we must expand our horizons and move on. In light of this new direction, we have decided to sunset Syphra and begin work on more ambitious projects (likely not to happen). 
 
-- API Updated to v1.3 
-- Monaco fixed for sm ppl
-- Added Tabs
-- COMPLETELY NEW UI (soon themes)
+We have decided to join the Arctic Team and help them grow in popularity. We would be appreciated if you could support them.
 
-- Join our discord server if u havent already! 
-- https://discord.gg/ApFZFGuYxh
+We want to thank our users for their support and understanding throughout the years. It really has been a pleasure to serve you all. We are thrilled about what the future holds for us, and we hope that you will continue to follow our journey.
+
+Sincerely,
+The Syphra LLC team.
+
+(REMAKE WORKS)
